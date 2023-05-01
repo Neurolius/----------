@@ -1,5 +1,5 @@
 body{
-    max-width: 1062px;
+    max-width: 1280px;
     width: 100%;
     
     background: url('./img/background.png') no-repeat;
@@ -9,14 +9,40 @@ body{
 .logo{
     background-color: #6E4422;
 }
-.header{
-    max-width: 256px;
-}
+
 .menu{
     display: flex;
     justify-content: space-around;
-  
 }
+.head{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.main-text{
+    margin-left: 28px;
+}
+.menu-main{
+    font-size: 25px;
+    width: 100%;
+}
+li:not(last-child){
+    margin-right: 30px;
+}
+
+.menu-item a{
+    text-decoration: none;
+    color:white;
+    
+}
+
+
+
+
+
+
+
 .button{
     all:unset;
     padding: 22px 55px;
@@ -26,22 +52,4 @@ body{
     font-weight: 500;
     font-size: 16px;
     line-height: 50px;
-}
-.head{
-    display: flex;
-    justify-content: space-around;
-   
-}
-
-.main-text{
-    margin-left: 28px;
-}
-.menu-main{
-    font-size: 25px;
-}
-
-.menu-item a{
-    text-decoration: none;
-    color:white;
-    
 }
