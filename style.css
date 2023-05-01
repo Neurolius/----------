@@ -10,14 +10,12 @@ body{
     background-color: #6E4422;
 }
 .header{
-    font-size: 25px;
-    display: flex;
-    justify-content: space-between;
-    
+    max-width: 256px;
 }
 .menu{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
+  
 }
 .button{
     all:unset;
@@ -28,12 +26,20 @@ body{
     font-weight: 500;
     font-size: 16px;
     line-height: 19px;
-    
-    
+}
+.head{
+    display: flex;
+    justify-content: space-around;
+   
 }
 
+
+.menu-main{
+    font-size: 25px;
+}
 
 .menu-item a{
     text-decoration: none;
     color:white;
+    
 }
