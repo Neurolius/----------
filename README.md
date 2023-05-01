@@ -3,6 +3,14 @@
 ## Ссылка на страницу сайта на Github Pages и на репозиторий
 
 ## Ссылка на дизайн-макеты страниц сайта
+ ### Дизайн main-страницы
+ https://www.figma.com/file/0u7m0mD37tudweMAigvI4X/Untitled?type=design&t=FiYw2H1OR3vL2tuw-0
+
+### Дизайн остальных страниц
+https://www.figma.com/file/8xHuvDoF6eRXdxYOHD1GeK/Untitled?type=design&node-id=0-1&t=FiYw2H1OR3vL2tuw-0
+
+
+
 
 
 ## Требования 
