@@ -22,19 +22,23 @@ body{
 
 .main-text{
     margin-left: 28px;
+    
 }
 .menu-main{
     font-size: 25px;
     width: 100%;
+
 }
 li:not(last-child){
     margin-right: 30px;
 }
-
+.menu-item{
+    list-style-type: none;
+}
 .menu-item a{
     text-decoration: none;
     color:white;
-    
+   
 }
 
 
@@ -52,4 +56,6 @@ li:not(last-child){
     font-weight: 500;
     font-size: 16px;
     line-height: 50px;
+
+    margin-top: 50px;
 }
