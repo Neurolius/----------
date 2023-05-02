@@ -5,7 +5,7 @@
 https://github.com/Neurolius/attestation
 
 ## GitHub Pages
-
+https://neurolius.github.io/attestation/
 
 ## Ссылка на дизайн-макеты страниц сайта
  ### Дизайн main-страницы
