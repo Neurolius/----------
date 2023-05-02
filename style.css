@@ -30,7 +30,11 @@ body {
 .table {
     font-size: 25px;
 }
-
+.brin{
+    background-color:#6E4422;
+    max-width: 200px;
+    margin-right: 50px;
+}
 .menu-main {
     font-size: 25px;
     width: 100%;
@@ -38,6 +42,7 @@ body {
 }
 .table_usl{
     margin-right: 15px;
+    font-size: 16px;
 }
 
 .center{
